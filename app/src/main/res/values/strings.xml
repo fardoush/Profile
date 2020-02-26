@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="title">পদবী : </string>
+    <string name="title_list">গাইনী/স্ত্রীরোগ/প্রসূতি বিশেষজ্ঞ </string>
+    <string name="space"> স্থান :  </string>
+    <string name="space_list">পপুলার ডায়াগনস্টিক সেন্টার </string>
+    <string name="vot">৮৯% (৪৩৮৪ ভোট)
+</string>
+    <string name="doct_exp">অভিজ্ঞতা : </string>
+    <string name="exp">১৬ বছর</string>
+    <string name="fees">ইন ক্লিনিক ফিস:</string>
+    <string name="money">৪৫০ টাকা </string>
+    <string name="offday">বন্ধ সময়</string>
+    <string name="everytime">সব সময়</string>
+    <string name="time">8:00 AM - 10:00 PM</string>
+    <string name="location_text">শাহবাগ স্কয়ার, 122 কাজী নজরুল ইসলাম সরণি, ঢাকা 1000
+    </string>
+    <string name="specal">স্পেশালিটি: </string>
+
+    <string name="specal1">কার্ডিওলজি বিভাগ</string>
+    <string name="specal2">    চর্ম ও যৌন বিভাগ</string>
+    <string name="specal3"> নিউরোলজি বিভাগ</string>
+    <string name="specal4">    নেফ্রোলজি বিভাগ
+</string>
+    <string name="specal5">    ইন্টারনাল মেডিসিন বিভাগ
+</string>
+    <string name="specal6">হেমাটোলজি বিভাগ</string>
+    <string name="specal7">গ্যাস্ট্রোএন্টারোলজি বিভাগ</string>
+
+    <string name="near_by_hospital">নিকটস্থ  হাসপাতাল: </string>
+    <string name="hospital_name">মা ও শিশু স্বাস্থ্য ইনষ্টিটিউট </string>
+    <string name="hospital_location">কদমতলী (শ্যামপুর), মাতুয়াইল, ঢাকা।</string>
+
+    <string name="hospital">বারডেম জেনারেল হাসপাতাল</string>
+    <string name="specialized_Hospital">বিশেষায়িত হাসপাতাল</string>
+
+
+
+</resources>
